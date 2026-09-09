@@ -13,9 +13,9 @@
 #
 
 include:
-  - board: promicro_nrf52840
+  - board: nice_nano//zmk
     shield: klor_left
-  - board: promicro_nrf52840
+  - board: nice_nano//zmk
     shield: klor_right
 # - board: nice_nano_v2
 #    shield: settings_reset
